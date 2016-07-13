@@ -1,0 +1,17 @@
+Download Eclipse Here!
+
+https://drive.google.com/file/d/0B19KtJDbtbttVzFHeWx0QW84TkU/view?usp=sharing
+
+Next, open it, and install the Java EE for Java Developers.
+
+Next, wait for the install to finish. When it's done, open, and select a workspace. This is where your code will be accessible in Windows Explorer or Finder.
+
+Then, once its fully open, select Help, and Install New Software.
+
+Then, put this link in:
+
+http://first.wpi.edu/FRC/roborio/release/eclipse/
+
+Finally, select the Java Robot Tools. C++ will not work at the moment.
+
+Finished! You've installed Eclipse with the tools for robot development.
